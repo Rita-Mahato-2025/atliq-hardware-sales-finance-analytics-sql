@@ -104,7 +104,7 @@ A well-structured Star schema for efficient querying and optimized performance.
 ---
 
 <h2><a class="anchor" id="sql-scripts">SQL Scripts</a></h2>
-- [overview_report.sql](scripts/Report_Overview_Croma_India(2021).sql)
+- [overview_report.sql](scripts/Report_Overview_Croma_India%282021%29.sql)
 - [gross_monthly_sales.sql](scripts/Gross_Monthly_Total_Sales_Report_for_Croma.sql)
 - [yearly_sales_report.sql](scripts/Yearly_Report_for_Croma_India.sql)
 
