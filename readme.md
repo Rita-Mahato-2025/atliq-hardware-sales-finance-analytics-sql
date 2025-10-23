@@ -31,7 +31,7 @@ are accessible to customers wherever they are.
 
 ---
 
-<h2><a class="anchor" id="Business Problem"></a>Overview</h2>
+<h2><a class="anchor" id="Business Problem"></a>Business Problem</h2>
 This project analyzes the sales performance of **Croma India** (a customer of AtliQ Hardwares) using SQL.  
 The goal is to generate insights into gross sales across months, fiscal years, and markets.
 
